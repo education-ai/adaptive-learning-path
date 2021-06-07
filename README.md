@@ -63,7 +63,7 @@ Have fun!
 <h2>NOTE</h2>
 It is important to note that this is an experimental feature that should not be used in a productive environment.
 
-<b>DO NOT INSTALL IT IN AN ALREADY PRODUCTIVELY USED INSTANCE OF MOODLE AS THIS COULD DAMAGE AND DELTE YOUR COURSES.</b>
+<b>DO NOT INSTALL IT IN AN ALREADY PRODUCTIVELY USED INSTANCE OF MOODLE AS THIS COULD DAMAGE AND DELETE YOUR COURSES.</b>
 
 
 Tested with MOODLE Version 3.11 (Build: 20210517). Be aware that the code may not meet the Moodle guidelines.
